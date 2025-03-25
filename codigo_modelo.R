@@ -1,0 +1,1 @@
+modelo <- lm(Sepal.Widht ~ Sepal.Length, iris)
